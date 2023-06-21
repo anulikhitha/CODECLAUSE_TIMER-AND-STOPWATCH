@@ -1,1 +1,2 @@
-# Timer and Stopwatch
+# CODE CLAUSE - TIMER AND STOPWATCH
+
